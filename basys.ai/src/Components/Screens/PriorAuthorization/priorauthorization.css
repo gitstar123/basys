@@ -1,0 +1,47 @@
+h2{
+    font-weight: 700;
+}
+
+.header{
+    padding: 5% 0%;
+}
+
+.cardSubtitles{
+    font-weight: bold;
+}
+
+.cardText{
+    font-size: small;
+}
+
+.cardBox{
+    margin: 1% 0%;
+}
+
+.cardBox:hover{
+    background-color: #112041;
+    color: white;
+}
+
+#parent:hover #approve{
+    background-color: white;
+    color: #112041;
+}
+
+#approve{
+    background-color: #112041;
+    font-weight: bold;
+}
+
+.boldText{
+    font-weight: bold;
+    color: #112041;
+}
+
+.colorText{
+    color:#112041;
+}
+
+.modalCard{
+    margin: 1% 0%;
+}
